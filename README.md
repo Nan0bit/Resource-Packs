@@ -13,14 +13,15 @@ This is a WIP (Work in Progress).
   - ex: `C:\Users\Nano\.runelite\Resource-Packs\Dark`
 
 
-## Available resource packs:
+## Available Resource Packs:
 - [Dark - Fixed](https://github.com/Nan0bit/Resource-Packs/raw/master/Dark_Fixed/release/Dark_Fixed.7z)
   * Only supports Fixed mode.
   
 - [Dark](https://github.com/Nan0bit/Resource-Packs/raw/master/Dark/release/Dark.7z)
   * Only supports Resizeable mode.
   
-## TO DO:
+  
+## To Do:
 - Finish inventory tab icons
 - Add more sprites [once I can](https://github.com/runelite/plugin-hub/pull/330)
 
