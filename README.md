@@ -3,6 +3,8 @@ Packs for use with [Melkypie's](https://github.com/melkypie) [resource-packs plu
 
 These themes are based around Windows 10 Dark Theme.
 
+This is a WIP (Work in Progress).
+
 
 ## Usage:
 - Install `Resource Packs` from the runelite plugin hub
@@ -18,6 +20,10 @@ These themes are based around Windows 10 Dark Theme.
 - [Dark](https://github.com/Nan0bit/Resource-Packs/raw/master/Dark/release/Dark.7z)
   * Only supports Resizeable mode.
   
+## TO DO:
+- Finish inventory tab icons
+- Add more sprites [once I can](https://github.com/runelite/plugin-hub/pull/330)
+
 
 # Screenshots
 ## Dark - Fixed
