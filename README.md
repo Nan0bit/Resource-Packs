@@ -23,7 +23,7 @@ This is a WIP (Work in Progress).
   
 ## To Do:
 - Finish inventory tab icons
-- Add more sprites [once I can](https://github.com/runelite/plugin-hub/pull/330)
+- Add more sprites once I can
 
 
 # Screenshots
